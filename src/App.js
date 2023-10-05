@@ -1,6 +1,7 @@
 // this function App is a component. It always serves as the root component of the component tree!
 
 import Expenses from "./components/Expenses/Expenses";
+import NewExpense from "./components/NewExpense/NewExpense";
 
 const App = () => {
   const expenses = [
@@ -26,6 +27,7 @@ const App = () => {
   ];
   return (
     <div>
+      <NewExpense></NewExpense>
       <Expenses items={expenses}></Expenses>
     </div>
   );
