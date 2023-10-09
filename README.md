@@ -1,7 +1,5 @@
 # Expense Tracker
-<<<<<<< HEAD
 
-A year based expense tracker built using React. This is my first ever React based project. This project is an introduction into the learning of custom React components as well as the use of state.
-=======
-A year based expense tracker built using React. This is my first ever React based project. This project is an introduction into the learning of custom React components. Users can add expenses as well as filter expenses on a yearly basis.
->>>>>>> 50a8d221143fb491c3d152435351d48485225d52
+An expense tracker built using React. Users can add expenses (title, amount, date) as well as filter expenses based on different years. This project was my first ever React project and covered the topics of components (stateful, stateless, controlled and uncontrolled), state, event handling, lifting state up (from child to parent components) and two way binding.
+
+
