@@ -8,7 +8,7 @@ An expense tracker built using React. Users can add expenses (title, amount, dat
 
 #### Users Can Add Expenses (Title, Amount, Date)
 
-![image](https://github.com/stephenkettley/expense-tracker/assets/109079565/7d89d50f-b5c1-458b-b90a-89b0182860b9)
+![image](https://github.com/stephenkettley/expense-tracker/assets/109079565/69515e03-ac03-4362-b458-72108d9b1341)
 
 #### Users Can Filter On A Particular Year & View The Total Expenditure Amount Per Month
 
