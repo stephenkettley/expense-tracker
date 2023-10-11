@@ -4,7 +4,7 @@ An expense tracker built using React. Users can add expenses (title, amount, dat
 
 #### Main Initial Screen
 
-![image](https://github.com/stephenkettley/expense-tracker/assets/109079565/6856a60b-d366-4648-bf4d-cda26cda9856)
+<img width="839" alt="image" src="https://github.com/stephenkettley/expense-tracker/assets/109079565/308777c9-7ab3-44dc-9580-236d298c353b">
 
 #### Users Can Add Expenses (Title, Amount, Date)
 
