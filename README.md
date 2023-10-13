@@ -1,6 +1,6 @@
 # Expense Tracker
 
-An expense tracker built using React. Users can add expenses (title, amount, date) as well as filter expenses based on different years in order to see the relative expenditure totals per month for that year. This project was my first ever React project and covered the topics of components (stateful, stateless, controlled and uncontrolled), state, event handling, lifting state up (from child to parent components), conditional content, dynamic styles and two way binding.
+An expense tracker built using React. Users can add expenses (title, amount, date) as well as filter expenses based on different years in order to see the relative expenditure totals per month for that year. This project covers the topics of components (stateful, stateless, controlled and uncontrolled), state, event handling, lifting state up (from child to parent components), conditional content, dynamic styles and two way binding.
 
 #### Main Initial Screen
 
